@@ -1,4 +1,5 @@
 ## Hi there, 👋 I'm Daria Sizmina
+Владею следующими навыками: MS PowerPoint,  SQL,  Анализ данных,  Бизнес-анализ,  Python,  Английский язык,  Анализ бизнес показателей,  Аналитические исследования,  Tableau,  MS Excel
 
 <!--
 **DariaSizmina/DariaSizmina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
